@@ -223,6 +223,41 @@ body{
     
 }
 
+@media (max-width: 768px){
+    #navegacion{
+        height: auto;
+        border-bottom: 0px;
+        display: block;
+
+    }
+
+    #navegacion ol li{
+        border-right: 1px solid black;
+        }
+
+    .imagen_cuadrada{
+        margin-right: 50%;
+        margin-left: 70%;
+        
+    }
+
+    .imagen_cuerpo{
+        margin-right: 50%;
+        margin-left: 60%;
+        height: 200px;
+        width: 300px;
+
+    }
+
+    .imagen_cuerpo2{
+        margin-right: 60%;
+        margin-left: 0%;
+        height: 90px;
+        width: 175px;
+
+    }
+
+}
 
 
 
